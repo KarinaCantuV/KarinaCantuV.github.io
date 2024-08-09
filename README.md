@@ -4,7 +4,7 @@
 Proyecto creado durante el bootcamp de Tecnolochicas PRO 2024, es adaptable a distintos dispositivos o tamaños de pantalla.
 El propósito de esta página web es mostrar mi portafolio de proyectos como desarrolladora web.📑
 
-Podrás encontrarlo aquí [Portafolio](https://github.com/KarinaCantuV).
+Podrás encontrarlo aquí [Portafolio][KarinaCantuV.github.io](https://karinacantuv.github.io/).
 
 ### Tecnologías utilizadas: 📓
 * HTML
@@ -19,4 +19,4 @@ Podrás encontrarlo aquí [Portafolio](https://github.com/KarinaCantuV).
 * Contacto 💬
 
 ### Imagen de proyecto Portafolio:
-![Camptura del proyecto](/assets/CapturaPortafolio.PNG)
+![Captura del proyecto](/assets/CapturaPortafolio.PNG)
